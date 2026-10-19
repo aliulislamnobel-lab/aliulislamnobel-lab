@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **JUTEROOT**
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **Game Development**
 
 - 📫 How to reach me **aliulislamnobel@gmail.com**
 
